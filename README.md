@@ -1,4 +1,5 @@
 # Following along a youtube [tutorial](https://youtu.be/drDdb1MBBfI?si=RKCBSxL5kenix69_) to learn Mechanical Soup
+Thanks [Mariya](https://www.youtube.com/@PythonSimplified)!
 
 ### Setup
 1. clone project
